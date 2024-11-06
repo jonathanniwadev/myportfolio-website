@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Define testimonials data
         const testimonials = [
             {
-                name: 'Kiwana Collins',
+                name: 'Kiwana ',
                 role: 'Frontend Developer @ KIU',
                 image: 'https://kiwanacollins.github.io/port.github.io/me.jpg',
                 text: 'Working with Jonathan as my team leader was transformative. He wasn\'t just a leader, but a mentor who genuinely cared about my growth.'
